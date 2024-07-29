@@ -8,7 +8,7 @@ function StartScreen({ onStart }) {
       <button onClick={onStart}>I AM READY</button>
     </div> 
   );
-}
+} 
 
 
 export default StartScreen;
